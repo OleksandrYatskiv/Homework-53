@@ -1,0 +1,42 @@
+export const data = [
+    {
+        id: '1',
+        name : 'John',
+        age: 34,
+        email: 'john@example.com',
+        company: 'Microsoft Corporation',
+        birthday: '11.09.1989',
+    },
+    {
+        id: '2',
+        name : 'Mark',
+        age: 25,
+        email: 'mark@example.com',
+        company: 'MacDonald\'s',
+        birthday: '08.04.1998',
+    },
+    {
+        id: '3',
+        name : 'Alina',
+        age: 28,
+        email: 'alina@example.com',
+        company: 'Apple Inc',
+        birthday: '19.06.1995',
+    },
+    {
+        id: '4',
+        name : 'Vasyl',
+        age: 45,
+        email: 'vasyl@example.com',
+        company: 'Google Inc',
+        birthday: '01.01.1978',
+    },
+    {
+        id: '5',
+        name : 'Angela',
+        age: 50,
+        email: 'angela@example.com',
+        company: 'Xiaomi',
+        birthday: '07.08.1973',
+    },
+];
